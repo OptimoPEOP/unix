@@ -1,0 +1,22 @@
+    /**<!---- primary Background colors  DEFAULT #1f1d2b --->**/
+
+    body {
+        background-color: var(--theme-bg) !important;
+    }
+    
+    .LoginFormContainer___StyledDiv-sc-cyh04c-3.cxOtYP {
+        background: var(--theme-primary-bg) !important;
+    }
+
+    label.Label-sc-g780ms-0.YBQup, p {
+        color: var(--body-color);
+    }
+
+    .iQvIqW:not([type="checkbox"]):not([type="radio"]) {
+        background: var(--theme-secondary-bg) !important;
+        color: var(--body-active-color) !important;
+    }
+
+    .cjgCjC:hover, .oHdiU:hover {
+        color: var(--body-active-color) !important;
+    }

@@ -1,0 +1,87 @@
+    /**<!---- primary Background colors  DEFAULT #1f1d2b --->**/
+
+    body {
+        background-color: var(--theme-bg) !important;
+    }
+
+    /* Tool Tips Background */
+    .pointer-events-none {
+        background: var(--theme-button-bg) !important;
+        color: var(--body-active-color) !important;
+    }
+
+    /* Navbar Active Links and hover effect */
+    a.active, .jZPsWO > div > a:hover {
+        color: var(--body-active-color) !important;
+    }
+
+    /* Card SVGS */
+    .style-module_2Vp6MaXq > .style-module_1DtraXMW > svg {
+        color: var(--theme-button-bg) !important;
+    }
+
+    /* Text Labels */
+    .text-sm { 
+        color: var(--body-active-color) !important;
+    }
+
+    /* Kill Button Modal  */
+    .relative.bg-gray-600.rounded.max-w-xl.w-full.mx-auto.shadow-lg.text-left.ring-4.ring-gray-800.ring-opacity-80 {
+        background: var(--theme-bg) !important;
+    }
+
+    /* Text Color */
+    p, .text-gray-50 {
+        color: var(--body-color) !important;
+
+    }
+
+    /* Gray Buttons */
+    button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_Yp7-2Fw-.flex-1, button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_Yp7-2Fw- {
+        color: var(--body-active-color) !important;
+        background: #2dce89 !important;
+    }
+
+    /* Schedules Gray Cards */
+    .lhtSTn, .fTWzzm, .cCQdBf, .jwfPOa, .efYmCH {
+        background: var(--theme-secondary-bg) !important;
+    }
+
+    /* Server Row Icon Styling */
+    .bRjKTU .icon {
+        background: transparent !important;
+        font-size: 25px;
+    }
+
+    button#logout {
+        color: var(--body-color) !important;
+    }
+
+    /* File Dropdown */
+    .eGcUMp:hover {
+        color: var(--theme-button-bg) !important
+    }
+
+    .diqvdw {
+        position: relative !important;
+    }
+
+    /* background for modals */
+    .style-module_1RnhIT0w {
+        background: var(--theme-bg) !important;
+    }
+
+    /* background for dropdown in backups */
+    div#FileDropdown {
+        background: var(--theme-bg) !important;
+    }
+
+    /* give backups dropdown text color */
+    .eaXUyY {
+        color: var(--theme-button-bg) !important;
+    }
+
+    /* Add scroll on container for files page */
+    .jZPsWO {
+        overflow: scroll;
+    }
